@@ -23,7 +23,7 @@ I am currently working on projects that make me familiar with UVM.
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/MY_Projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theteamonk)
+[![portfolio](https://img.shields.io/badge/MY_Projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theteamonk?tab=repositories)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithrashreeharish)
 
