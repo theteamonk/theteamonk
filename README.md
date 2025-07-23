@@ -29,4 +29,4 @@ I am currently working on projects that make me familiar with UVM.
 
 [![Verification_Academy](https://img.shields.io/badge/Verification_Academy-1DA1F2?style=for-the-badge&logo=Siemens&logoColor=white)](https://verificationacademy.com/forums/u/chaitra/summary)
 
-[![edaplayground](https://www.edaplayground.com/img/logo.png?v=2)](https://www.edaplayground.com/user/531179)
+[![edaplayground](https://www.edaplayground.com/img/logo.png?v=2)](https://www.edaplayground.com/playgrounds/user/531179)
