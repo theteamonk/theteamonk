@@ -23,10 +23,9 @@ I am currently working on projects that make me familiar with UVM.
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/MY_Projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theteamonk?tab=repositories)
+[![portfolio](https://img.icons8.com/?size=50&id=80462&format=png&color=000000)](https://github.com/theteamonk?tab=repositories)
+[![linkedin](https://img.icons8.com/?size=50&id=60ZV_wYC0BM2&format=png&color=000000)](www.linkedin.com/in/chaithrashreeharish)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithrashreeharish)
-
-[![Verification_Academy](https://img.shields.io/badge/Verification_Academy-1DA1F2?style=for-the-badge&logo=Siemens&logoColor=white)](https://verificationacademy.com/forums/u/chaitra/summary)
+[![Verification_Academy](http://vectorlogo.zone/logos/siemens/siemens-icon.svg)](https://verificationacademy.com/forums/u/chaitra/summary)
 
 [![edaplayground](https://www.edaplayground.com/img/logo.png?v=2)](https://www.edaplayground.com/playgrounds/user/531179)
