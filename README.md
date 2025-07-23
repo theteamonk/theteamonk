@@ -22,14 +22,11 @@ I am currently working on projects that make me familiar with UVM.
 
 
 ## 🔗 Links
-What I do:
 
-[![portfolio](https://img.shields.io/badge/my_Projects-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/theteamonk)
-
-More about me:
+[![portfolio](https://img.shields.io/badge/MY_Projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theteamonk)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithrashreeharish)
 
-Where I hang out:
+[![Verification_Academy](https://img.shields.io/badge/Verification_Academy-1DA1F2?style=for-the-badge&logo=Siemens&logoColor=white)](https://verificationacademy.com/forums/u/chaitra/summary)
 
-[![Verification_Academy](https://img.shields.io/badge/Verification_Academy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://verificationacademy.com/forums/u/chaitra/summary)
+[![edaplayground](https://www.edaplayground.com/img/logo.png?v=2)](https://www.edaplayground.com/user/531179)
