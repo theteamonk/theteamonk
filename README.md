@@ -29,3 +29,8 @@ I am currently working on projects that make me familiar with UVM.
 [![Verification_Academy](http://vectorlogo.zone/logos/siemens/siemens-icon.svg)](https://verificationacademy.com/forums/u/chaitra/summary)
 
 [![edaplayground](https://www.edaplayground.com/img/logo.png?v=2)](https://www.edaplayground.com/playgrounds/user/531179)
+
+##
+Thank you for visiting
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=theteamonk&style=flat)
