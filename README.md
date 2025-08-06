@@ -32,5 +32,3 @@ I am currently working on projects that make me familiar with UVM.
 
 ##
 Thank you for visiting
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=theteamonk&style=flat)
