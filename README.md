@@ -20,6 +20,9 @@ I am currently working on projects that make me familiar with UVM.
 + Synopsys VCS
 + Cadence Virtuoso
 
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theteamonk&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## 🔗 Links
 
